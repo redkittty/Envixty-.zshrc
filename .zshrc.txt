@@ -12,10 +12,5 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosugges
 
 # Clear
 clear
-source /home/jkirkpatrick/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/jkirkpatrick/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/jkirkpatrick/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/jkirkpatrick/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/jkirkpatrick/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/jkirkpatrick/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-source /home/jkirkpatrick/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
